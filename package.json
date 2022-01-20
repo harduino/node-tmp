@@ -36,6 +36,7 @@
   },
   "main": "lib/tmp.js",
   "files": [
+    "index.ts",
     "lib/"
   ],
   "changelog": {
